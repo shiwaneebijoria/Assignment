@@ -1,0 +1,28 @@
+Theatre Seating
+
+Execution Information:-
+
+Run DPThreatreSeatingMain.java file by using below input sample.
+
+Input Information:-
+
+Input Sample:
+
+6 6
+3 5 5 3
+4 6 6 4
+2 8 8 2
+6 6
+
+Smith 2
+Jones 5
+Davis 6
+Wilson 100
+Johnson 3
+Williams 4
+Brown 8
+Miller 12
+output
+
+
+
